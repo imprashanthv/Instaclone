@@ -1,2 +1,2 @@
 # Instaclone
-Instagram clone
+This is an Instagram clone - v1.0
